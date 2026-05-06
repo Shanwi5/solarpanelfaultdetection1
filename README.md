@@ -95,5 +95,10 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
+# 📷 Screenshots
+
+<img width="1920" height="908" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/eb909629-e700-4e7b-8cfd-2bdda1cf7693" />
+<img width="1920" height="907" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/48abb614-ff58-4486-be5f-c15ed8545036" />
+
 
 
